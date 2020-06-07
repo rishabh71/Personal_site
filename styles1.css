@@ -150,13 +150,13 @@ margin-top: 35px;
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
   .div1 {
-  	width: 145%;
+  	width: 150%;
   }
   .middle-container {
-	width: 145%;
+	width: 150%;
 }
 .bottom-container {
-	width: 145%;
+	width: 150%;
 }
 .top-cloud {
 	margin-right: -100px;
